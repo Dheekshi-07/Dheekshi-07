@@ -4,7 +4,6 @@ Hi there 👋
 
 <img align="right" alt="AI & Technology" width="390" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
 
-$ whoami
 
 Name     : Dheekshika S
 Role     : AI & Data Science Student
@@ -85,13 +84,3 @@ An AI-powered learning and assessment platform focused on sign-language gesture 
 Working with:
 Python OpenCV MediaPipe Machine Learning React FastAPI PostgreSQL
 
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dheekshi-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheekshi-07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Dheekshi-07&theme=tokyonight&hide_border=true" />
-</p>
-<h3 align="center">✨ Learn • Build • Explore • Grow 🚀</h3>

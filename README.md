@@ -4,26 +4,26 @@ Hi there 👋
 
 <img align="right" alt="AI & Technology" width="390" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
 
-<p>
-  🎓 <b>Education:</b> B.Tech Artificial Intelligence & Data Science<br>
-  🏫 <b>College:</b> Rathinam Technical Campus<br>
-  🤖 <b>Focus:</b> AI • Machine Learning • Data Science • Computer Vision<br>
-  💻 <b>Role:</b> AI & Data Science Student • Developer<br>
-  📚 <b>Year:</b> 2nd Year
-</p>
+<pre>
+name: Dheekshika S
+role: AI & Data Science Student
+college: Rathinam Technical Campus
+year: 2nd Year
+focus: [AI, ML, Data Science, Computer Vision]
+building: AI & Full-Stack Applications
+</pre>
 
-I’m a B.Tech Artificial Intelligence & Data Science student passionate about Artificial Intelligence, Machine Learning, Computer Vision and Software Development.
+I'm a **B.Tech AI & Data Science student** interested in **AI, ML, Computer Vision & Development**.
 
-I enjoy building practical applications, solving problems with technology and continuously exploring new areas of AI and development.
+I enjoy building **practical, real-world applications** and exploring new technologies.
 
-* 🎓 Currently pursuing B.Tech Artificial Intelligence & Data Science
-* 🤖 Interested in Artificial Intelligence, Machine Learning & Computer Vision
-* 📊 Exploring Data Science, Predictive Analytics & Data Visualization
-* 💻 Building applications with Python, Java, JavaScript & React
-* 🤟 Currently working on an AI-powered Sign Language Learning & Assessment Platform
-* 🌱 Always learning, experimenting and building
-* 🤝 Open to collaborating on AI/ML, Data Science & Full-Stack projects
-
+- 🎓 B.Tech **AI & Data Science**
+- 🤖 Interested in **AI, ML & Computer Vision**
+- 📊 Exploring **Data Science & Predictive Analytics**
+- 💻 Building with **Python, Java, JavaScript & React**
+- 🤟 Working on an **AI-powered Sign Language Platform**
+- 🌱 **Learning • Building • Exploring**
+- 🤝 Open to **AI/ML & Full-Stack collaborations**
 🔗 Connect With Me
 
 <p align="left">

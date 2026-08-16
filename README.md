@@ -4,12 +4,13 @@ Hi there 👋
 
 <img align="right" alt="AI & Technology" width="390" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
 
-
-Name     : Dheekshika S
-Role     : AI & Data Science Student
-Focus    : AI • ML • Data Science • Development
-College  : Rathinam Technical Campus
-Year     : 2nd Year
+<p>
+  🎓 <b>Education:</b> B.Tech Artificial Intelligence & Data Science<br>
+  🏫 <b>College:</b> Rathinam Technical Campus<br>
+  🤖 <b>Focus:</b> AI • Machine Learning • Data Science • Computer Vision<br>
+  💻 <b>Role:</b> AI & Data Science Student • Developer<br>
+  📚 <b>Year:</b> 2nd Year
+</p>
 
 I’m a B.Tech Artificial Intelligence & Data Science student passionate about Artificial Intelligence, Machine Learning, Computer Vision and Software Development.
 
@@ -83,4 +84,7 @@ An AI-powered learning and assessment platform focused on sign-language gesture 
 
 Working with:
 Python OpenCV MediaPipe Machine Learning React FastAPI PostgreSQL
+
+<h3 align="center">✨ Learn • Build • Explore • Grow 🚀</h3>
+
 

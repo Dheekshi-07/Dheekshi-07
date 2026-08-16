@@ -5,7 +5,6 @@ Hi there 👋
 <img align="right" alt="AI & Technology" width="390" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
 
 <pre>
-name: Dheekshika S
 role: AI & Data Science Student
 college: Rathinam Technical Campus
 year: 2nd Year
